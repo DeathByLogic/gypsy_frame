@@ -1,0 +1,10 @@
+#Wheel Encoder Settings
+#Sat May 12 01:15:33 PDT 2012
+encoder.innerDiameter=35
+encoder.quadratureTrack=true
+encoder.outerDiameter=90
+encoder.resolution=50
+encoder.type=1
+encoder.indexTrack=false
+encoder.numbering=0
+encoder.inverted=false
